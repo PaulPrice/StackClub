@@ -4,4 +4,4 @@ This folder contains a set of tutorial notebooks exploring the basic properties 
 
 | Notebook   | Description  | Owner  |
 |---|---|---|
-| [None so far]() | Not yet started. | TBD (@tbd) |
+| [Guided Tour of Calexps]() | Not yet started. | David Shupe (@stargaser) |
