@@ -4,4 +4,4 @@ This folder contains a set of tutorial notebooks exploring the basic properties 
 
 | Notebook   | Description  | Owner  |
 |---|---|---|
-| [Guided Tour of Calexps]() | Not yet started. | David Shupe (@stargaser) |
+| [Guided Tour of Calexps](Calexp_guided_tour.ipynb) | Work in progress. | David Shupe (@stargaser) |
